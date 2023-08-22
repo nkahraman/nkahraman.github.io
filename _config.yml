@@ -2,7 +2,7 @@
 
 title: Nurbanu Kahraman Kurt
 description: Software Developer
-taglong: Jekyll theme for a beautiful online CV
+taglong: Software Developer
 tagshort: Jekyll theme
 url: https://cvless.netlify.app
 baseurl: ""
@@ -20,7 +20,6 @@ photo: /assets/jpg/photo.jpg
 
 exclude:
   - LICENSE
-  - README.md
 
 plugins:
   - jekyll-feed
