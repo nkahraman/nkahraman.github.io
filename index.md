@@ -5,6 +5,11 @@ title: Home
 
 # About
 
+
+
+
+
+
 [Click for CV](/NKahramanCV.pdf) 
 
 [Click for blog](/posts) 
