@@ -1,7 +1,7 @@
 # site settings
 
 title: Nurbanu Kahraman Kurt
-description: Jekyll theme for a beautiful online CV
+description: Software Developer
 taglong: Jekyll theme for a beautiful online CV
 tagshort: Jekyll theme
 url: https://cvless.netlify.app
@@ -12,8 +12,8 @@ repo: https://github.com/nkahraman/nkahraman.github.io
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Nurbanu Kahraman Kurt
+  email: nurbanukahraman7@gmail.com
 photo: /assets/jpg/photo.jpg
 
 # build settings
