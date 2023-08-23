@@ -12,7 +12,7 @@ title: Home
 
 [Click for CV](/NKahramanCV.pdf) 
 
-[Click for blog](/posts) 
+
 
 
 <!-- 
